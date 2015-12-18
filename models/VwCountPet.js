@@ -3,10 +3,10 @@
  */
 /**
  * Badge Waterline Model.
- * @module models/hrmsdb/VwBadge
+ * @module models/vwcountpet
  *
  * @description
- * hrmsdb.vw_shrm_badge Model
+ * pet.vw_count_pet Model
  *
  */
 var Waterline = require('waterline');
