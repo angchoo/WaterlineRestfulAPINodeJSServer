@@ -3,10 +3,10 @@
  */
 /**
  * User Waterline Model
- * @module models/User
+ * @module models/pet
  *
  * @description
- * uccoredb.uc_user Model
+ * foobar.pet
  *
  */
 var Waterline = require('waterline');
