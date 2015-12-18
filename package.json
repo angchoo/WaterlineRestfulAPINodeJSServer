@@ -1,0 +1,23 @@
+{
+  "name": "A restful API Node Server using waterline as ORM",
+  "version": "1.0.0",
+  "description": "This is only turtorial demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Francois Angchoo",
+  "email": "jean.angchoo@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "crypto": "0.0.3",
+    "express": "^4.12.4",
+    "gulp": "^3.9.0",
+    "gulp-nodemon": "^2.0.3",
+    "lodash": "^3.9.3",
+    "method-override": "^2.3.3",
+    "sails-mysql": "^0.10.12",
+    "waterline": "^0.10.24"
+  }
+}
